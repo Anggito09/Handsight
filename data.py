@@ -7,7 +7,7 @@ cap = cv2.VideoCapture(0)
 detector = HandDetector(maxHands=1)
 offset = 20
 imgSize = 300
-folder = r"C:\\Users\\LENOVO\\OneDrive\\Documents\\HandSight\\Data\\Q"
+folder = r"C:\\Users\\LENOVO\\OneDrive\\Documents\\HandSight\\Dataset\\a"
 
 counter = 0
 while True:
